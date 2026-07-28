@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am an Information Technology student and software engineer focusing on mastering core computer science concepts, deep diving into algorithmic patterns, and building a strong programming foundation.
 
-- 💻 Currently expanding my skills in **C++** and **Python**
+- 💻 Currently expanding my skills in **C++** , **java** and **Python**
 - 🧠 Practicing core algorithmic techniques (Starting with Sliding Window!)
 - 🎯 My focus: Writing optimized code and maintaining a consistent development streak
 
